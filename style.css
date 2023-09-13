@@ -45,9 +45,10 @@ body * {
 
 /* profile */
 #profile img {
-  width: 112px;
+  width: 150px;
   display: block;
   margin: auto;
+  padding: 10px ;
 }
 
 #profile p {
